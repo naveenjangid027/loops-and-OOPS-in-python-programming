@@ -7,5 +7,10 @@ print(f"Today I went to a {adjective} zoo}
 print(f"In an exhbit , I saw  a {noun }")
 print(f"{noun} was {adjective} and {verb 1}")
 print(f"I was {adjective}!")
+x = 10
+y = 20 
+print(bin(x))
+print(bin(y))
+
 
 
